@@ -113,7 +113,8 @@ else:
 ![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/6a9783d3-1537-48d9-89b8-7a235938d97e)
 ![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/5eebf54b-ae44-49c0-bcc4-97a38fcaacd2)
 
-
+## Name: P. LOKNAATH
+## REgister Number : 212223240080
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
