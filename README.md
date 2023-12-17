@@ -104,9 +104,14 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/2ac2a251-7b6a-4800-a593-63accb464ae3)
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/8ba17796-ac56-42ca-9e17-5256a5d69f2f)
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/cc52e40f-dd8c-46e5-a5f9-b216477750f0)
 
-
-
+## Output
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/4280d79f-3981-40de-a069-201474fa5e93)
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/6a9783d3-1537-48d9-89b8-7a235938d97e)
+![image](https://github.com/Loknaath-sec/Search-Algorithm/assets/145742558/5eebf54b-ae44-49c0-bcc4-97a38fcaacd2)
 
 
 
